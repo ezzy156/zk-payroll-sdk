@@ -96,6 +96,7 @@ export * from "./testing";
 export { TransactionWatcher } from "./events";
 export type { ConfirmationOptions, ConfirmationResult } from "./events";
 export * from "./polling";
+export * from "./utils/xdr-formatters";
 
 // ── Pagination Helpers ───────────────────────────────────────────────────────
 export * from "./pagination";
